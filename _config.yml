@@ -24,13 +24,13 @@ email: dclinkenbeard@csumb.edu
 description: >- # this means to ignore newlines until "baseurl:"
   I discuss thoughts on technology, education, and the world in general.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://clinkenbeard.info/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  dclinkenbeard
 
 # Build settings
-# theme: minima
-remote_theme: daattali/beautiful-jekyll@6.0.1
+theme: minima
+# remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
   - jekyll-feed
 
