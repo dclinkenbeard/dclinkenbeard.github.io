@@ -30,12 +30,11 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Full Time Lecturer
+      institution: California State University, Monterey Bay
+      year: 2018 - Current
       description:
         - Description 1.
-        - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
