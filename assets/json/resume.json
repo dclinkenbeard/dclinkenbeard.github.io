@@ -1,5 +1,5 @@
 {
-"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Drew A. Clinkenbeard",
     "label": "Full Time Lecturer",
@@ -32,13 +32,13 @@
       "endDate": "present",
       "summary": "Design, develop, and present classes",
       "highlights": [
-                      "CST 319: Computing Across the Disciplines (2 sections)",
-                      "CST 338: Software Design (19 sections)",
-                      "CST 338: Software Design ( sections CS Online)",
-                      "CST 336: Internet Programming (4 lab sections)",
-                      "CST 426: Advanced Game Design (5 sections)",
-                      "CST 438: Software Engineering (8 sections)"
-] 
+        "CST 319: Computing Across the Disciplines (2 sections)",
+        "CST 338: Software Design (19 sections)",
+        "CST 338: Software Design ( sections CS Online)",
+        "CST 336: Internet Programming (4 lab sections)",
+        "CST 426: Advanced Game Design (5 sections)",
+        "CST 438: Software Engineering (8 sections)"
+      ]
     },
     {
       "name": "California State University, Channel Islands",
@@ -47,11 +47,13 @@
       "startDate": "2015-08-01",
       "endDate": "2017-12-15",
       "summary": "Worked as a part time lecturer at CSUCI.  I developed course material and taught students ranging from freshman to sniors.",
-      "highlights": ["COMP 101: Computer Literacy (9 sections)",
-                     "COMP 102: Web Development (4 sections)","COMP 105: Introduction to Programming (2 sections)",
-                     "COMP 162: Computer Architecture and Assembly Language (1 lab section)",
-                     "COMP 337: Survey of Computer Gaming (2 sections)"
-                   ]
+      "highlights": [
+        "COMP 101: Computer Literacy (9 sections)",
+        "COMP 102: Web Development (4 sections)",
+        "COMP 105: Introduction to Programming (2 sections)",
+        "COMP 162: Computer Architecture and Assembly Language (1 lab section)",
+        "COMP 337: Survey of Computer Gaming (2 sections)"
+      ]
     },
     {
       "name": "Fullerton City College, Fullerton California",
@@ -60,9 +62,7 @@
       "startDate": "2014-01-01",
       "endDate": "2015-05-15",
       "summary": "Worked as a part time lecturer at CSUCI.  I developed course material and taught students ranging from freshman to sniors.",
-      "highlights": ["CIS 101: Introduction to computer systems (2 sections)",
-                     "CIS 111: Introduction to information systems (3 sections)"
-                   ]
+      "highlights": ["CIS 101: Introduction to computer systems (2 sections)", "CIS 111: Introduction to information systems (3 sections)"]
     }
   ],
   "education": [
@@ -106,8 +106,7 @@
       "summary": "'The Outstanding Teaching Award recognizes outstanding and meritorious teaching and learning. Teaching is central to faculty work, and faculty members often create outstanding learning experiences for students that may not come to the attention of others beyond the students in the classroom.'"
     }
   ],
-  "certificates": [
-  ],
+  "certificates": [],
   "publications": [
     {
       "name": "Plickers and Peer Instruction in a Software Design Course",
@@ -118,64 +117,57 @@
     }
   ],
   "skills": [
-  {
-    "name": "STEM Education",
-    "level": "Master",
-    "icon": "fa-solid fa-chalkboard-teacher",
-    "keywords": [
-      "OOP",
-      "Java Instruction",
-      "Course Design",
-      "Evaluation",
-      "Peer Instruction",
-      "Active Learning",
-      "Curriculum Development",
-      "Equity in CS Education"
-    ]
-  },
-  {
-    "name": "Software Engineering",
-    "level": "Advanced",
-    "icon": "fa-solid fa-code",
-    "keywords": [
-      "Software Design",
-      "Object-Oriented Programming",
-      "Version Control (Git/GitHub)",
-      "Agile Development",
-      "RESTful APIs",
-      "Spring Boot",
-      "Gradle",
-      "Docker"
-    ]
-  },
-  {
-    "name": "Game Development",
-    "level": "Intermediate",
-    "icon": "fa-solid fa-gamepad",
-    "keywords": [
-      "Unity (2D/3D)",
-      "C# Programming",
-      "Procedural Generation",
-      "Wave Function Collapse",
-      "Turn-Based Systems",
-      "Student Collaboration",
-      "Playtesting"
-    ]
-  },
-  {
-    "name": "Data & Web Technologies",
-    "level": "Intermediate",
-    "icon": "fa-solid fa-database",
-    "keywords": [
-      "PL/SQL",
-      "MySQL/MariaDB",
-      "HTML/CSS/JavaScript",
-      "Thymeleaf",
-      "Jekyll",
-      "JSON & YAML"
-    ]
-  }
-],
+    {
+      "name": "STEM Education",
+      "level": "Master",
+      "icon": "fa-solid fa-chalkboard-teacher",
+      "keywords": [
+        "OOP",
+        "Java Instruction",
+        "Course Design",
+        "Evaluation",
+        "Peer Instruction",
+        "Active Learning",
+        "Curriculum Development",
+        "Equity in CS Education"
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Software Design",
+        "Object-Oriented Programming",
+        "Version Control (Git/GitHub)",
+        "Agile Development",
+        "RESTful APIs",
+        "Spring Boot",
+        "Gradle",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Game Development",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-gamepad",
+      "keywords": [
+        "Unity (2D/3D)",
+        "C# Programming",
+        "Procedural Generation",
+        "Wave Function Collapse",
+        "Turn-Based Systems",
+        "Student Collaboration",
+        "Playtesting"
+      ]
+    },
+    {
+      "name": "Data & Web Technologies",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-database",
+      "keywords": ["PL/SQL", "MySQL/MariaDB", "HTML/CSS/JavaScript", "Thymeleaf", "Jekyll", "JSON & YAML"]
+    }
+  ],
   "languages": [
     {
       "language": "English",
