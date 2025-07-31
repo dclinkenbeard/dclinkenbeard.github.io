@@ -7,6 +7,7 @@ This document outlines the steps needed to customize your Jekyll al-folio blog w
 **Current Status**: Only email is configured (dclinkenbeard@csumb.edu)
 
 **Actions Needed**:
+
 - [x] Add GitHub username
 - [x] Add LinkedIn profile
 - [ ] ~Add Twitter/X handle (if applicable)~
@@ -25,6 +26,7 @@ This document outlines the steps needed to customize your Jekyll al-folio blog w
 **Current Status**: Basic info configured, needs review and updates
 
 **Actions Needed**:
+
 - [ ] Verify and update site title if needed
 - [ ] Review and update site description
 - [ ] Update footer text with personal preferences
@@ -38,6 +40,7 @@ This document outlines the steps needed to customize your Jekyll al-folio blog w
 **Current Status**: Basic template with placeholder content
 
 **Actions Needed**:
+
 - [ ] Update subtitle with actual affiliations
 - [ ] Replace profile image with your professional photo
 - [ ] Update contact information and office details
@@ -51,6 +54,7 @@ This document outlines the steps needed to customize your Jekyll al-folio blog w
 **Current Status**: Partially filled with basic information
 
 **Actions Needed**:
+
 - [ ] Complete education section descriptions
 - [ ] Expand experience section with detailed descriptions
 - [ ] Add publications section
@@ -65,6 +69,7 @@ This document outlines the steps needed to customize your Jekyll al-folio blog w
 ## 5. Profile Assets
 
 **Actions Needed**:
+
 - [ ] Add professional profile photo to `assets/img/`
 - [ ] Optimize image for web (Jekyll will handle responsive formats)
 - [ ] Update any other imagery used throughout the site
@@ -72,6 +77,7 @@ This document outlines the steps needed to customize your Jekyll al-folio blog w
 ## 6. Additional Data Files
 
 **Review and Update**:
+
 - [ ] `_data/repositories.yml` - GitHub repositories to showcase
 - [ ] `_data/coauthors.yml` - Research collaborators
 - [ ] `_data/venues.yml` - Publication venues
@@ -79,6 +85,7 @@ This document outlines the steps needed to customize your Jekyll al-folio blog w
 ## 7. Content Creation
 
 **Actions Needed**:
+
 - [ ] Create initial blog posts in `_posts/`
 - [ ] Set up projects in `_projects/`
 - [ ] Configure publications (if using Jekyll Scholar)
@@ -87,6 +94,7 @@ This document outlines the steps needed to customize your Jekyll al-folio blog w
 ## 8. SEO and Analytics
 
 **Actions Needed**:
+
 - [ ] Set up Google Analytics (if desired)
 - [ ] Configure SEO tags and meta descriptions
 - [ ] Set up site verification for search engines
@@ -95,6 +103,7 @@ This document outlines the steps needed to customize your Jekyll al-folio blog w
 ## 9. Theme Customization
 
 **Optional Enhancements**:
+
 - [ ] Customize color scheme in `_sass/`
 - [ ] Adjust layout preferences
 - [ ] Configure commenting system (if desired)
@@ -104,6 +113,7 @@ This document outlines the steps needed to customize your Jekyll al-folio blog w
 ## 10. Final Testing and Deployment
 
 **Actions Needed**:
+
 - [ ] Test site locally with `bundle exec jekyll serve --livereload`
 - [ ] Verify all links work correctly
 - [ ] Test responsive design on mobile devices
@@ -128,6 +138,7 @@ This document outlines the steps needed to customize your Jekyll al-folio blog w
 ## Questions to Consider
 
 Before starting customization, consider:
+
 - Which social media platforms are most relevant for your professional presence?
 - What sections of your CV should be prominently featured?
 - What type of content do you want to regularly publish (blog posts, research updates, etc.)?

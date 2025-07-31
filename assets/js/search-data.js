@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-test-of-building",
+            },{id: "post-supercharging-my-development-environment-with-claude",
+        
+          title: "Supercharging My Development Environment with Claude",
+        
+        description: "How I used Claude to customize and enhance Neovim, Hammerspoon, Kitty, and HCalendar for a more productive workflow",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/claude-dev-tool-customization/";
+          
+        },
+      },{id: "post-a-test-of-building",
         
           title: "a test of building",
         
