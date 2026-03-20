@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-supercharging-my-development-environment-with-claude",
+            },{id: "post-learning-in-the-age-of-ai",
+        
+          title: "Learning in the Age of AI",
+        
+        description: "Reflections on how AI tools are changing what it means to learn, create, and teach.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/learning/";
+          
+        },
+      },{id: "post-supercharging-my-development-environment-with-claude",
         
           title: "Supercharging My Development Environment with Claude",
         
@@ -113,6 +124,9 @@ ninja.data = [{
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-new-post-learning-in-the-age-of-ai-reflections-on-how-ai-is-changing-what-it-means-to-create-learn-and-teach",
+          title: 'New post: Learning in the Age of AI — reflections on how AI...',
           description: "",
           section: "News",},{id: "projects-nvim-and-accessories",
           title: 'nvim and accessories',
