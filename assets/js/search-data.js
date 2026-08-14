@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-learning-in-the-age-of-ai",
+            },{id: "post-what-should-a-300-level-software-design-course-look-like-now",
+        
+          title: "What Should a 300-Level Software Design Course Look Like Now?",
+        
+        description: "A working paper that asks what computer science is, what CS education should be in the era of generative AI, and what the course learning outcomes for CST 338 at CSUMB should become. Sharing a v0.1 draft for colleague review.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/cst338-redesign-foundations/";
+          
+        },
+      },{id: "post-learning-in-the-age-of-ai",
         
           title: "Learning in the Age of AI",
         
@@ -136,6 +147,11 @@ ninja.data = [{
           description: "Working on setting up neovim as an IDE and various accessories",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-cst-338-redesign",
+          title: 'CST 338 Redesign',
+          description: "Rethinking a 300-level software design course (Java, OOP, design patterns, JavaFX) for the era of generative AI. Working paper, evolving syllabus, and the assessment scaffolding that has to come with both.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_cst338-redesign/";
             },},{
         id: 'social-email',
         title: 'email',
