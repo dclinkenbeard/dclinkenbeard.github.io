@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-what-should-a-300-level-software-design-course-look-like-now",
+            },{id: "post-trivia-quote-a-daily-word-quote-amp-trivia-game",
+        
+          title: "Trivia Quote: A Daily Word, Quote &amp; Trivia Game",
+        
+        description: "Trivia Quote is live on the App Store and Google Play — three daily brain games, weekly quizzes, streaks, and a monthly leaderboard, built with React Native, Expo, and Supabase.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/trivia-quote/";
+          
+        },
+      },{id: "post-what-should-a-300-level-software-design-course-look-like-now",
         
           title: "What Should a 300-Level Software Design Course Look Like Now?",
         
@@ -125,22 +136,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-new-post-learning-in-the-age-of-ai-reflections-on-how-ai-is-changing-what-it-means-to-create-learn-and-teach",
+            },},{id: "news-new-post-learning-in-the-age-of-ai-reflections-on-how-ai-is-changing-what-it-means-to-create-learn-and-teach",
           title: 'New post: Learning in the Age of AI — reflections on how AI...',
           description: "",
           section: "News",},{id: "news-paper-under-review-at-iceds-2026-hull-uk-april-2026-building-industry-ready-skills-through-game-development-a-work-in-progress-report-on-teaching-procedural-content-generation-via-extended-experiential-learning",
           title: 'Paper under review at ICEDS 2026 (Hull, UK, April 2026): Building Industry-Ready Skills...',
+          description: "",
+          section: "News",},{id: "news-new-post-what-should-a-300-level-software-design-course-look-like-now-a-working-paper-on-redesigning-cst-338-software-design-for-the-era-of-generative-ai-sharing-v0-1-for-colleague-review",
+          title: 'New post: What Should a 300-Level Software Design Course Look Like Now? —...',
+          description: "",
+          section: "News",},{id: "news-trivia-quote-is-live-on-the-app-store-and-google-play-the-first-title-from-clinkenbeard-games-amp-amp-toys-new-post-trivia-quote-a-daily-word-quote-amp-amp-trivia-game",
+          title: 'Trivia Quote is live on the App Store and Google Play — the...',
           description: "",
           section: "News",},{id: "projects-nvim-and-accessories",
           title: 'nvim and accessories',
